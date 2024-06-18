@@ -1,2 +1,8 @@
 # jslib
-My personal minimum set of library collections that my tools and scripts have dependency. To ship those in a new environment easily. 
+My personal minimum set of library collections that are required for my frequently used tools and scripts.    
+
+Two purposes.  
+- To ship libraries to a new empty system.   
+- To keep consistent libraries reference on mutli user systems where changes happen and unstable.    
+
+
