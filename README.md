@@ -5,4 +5,6 @@ Two purposes.
 - To ship libraries to a new empty system.   
 - To keep consistent libraries reference on mutli user systems where changes happen and unstable.    
 
+[Perl libraries for Linux X86 platform](PERLLNXLIB/readme.md)    
+
 
